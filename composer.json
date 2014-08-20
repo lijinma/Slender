@@ -1,0 +1,14 @@
+{
+    "name": "lijinma/slender",
+    "description": "A micro framework",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jinma li",
+            "email": "lijinma@126.com"
+        }
+    ],
+    "require": {
+        "symfony/class-loader": "2.1.*"
+    }
+}
